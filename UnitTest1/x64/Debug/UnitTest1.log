@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\Student\PR08.1 it\PR08.1 it\FileName.cpp(2,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file '/UnitTest1.cpp')
+      E:\Student\PR08.1 it\PR08.1 it\FileName.cpp(2,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+     Creating library E:\Student\PR08.1 it\x64\Debug\UnitTest1.lib and object E:\Student\PR08.1 it\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\Student\PR08.1 it\x64\Debug\UnitTest1.dll
